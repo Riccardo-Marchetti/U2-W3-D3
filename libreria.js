@@ -72,6 +72,8 @@ const libreria = function () {
     </div>
   
       `;
+        //   if()
+
         riga1.appendChild(createCard);
         const bottone = document.getElementById("myBtn");
         const carta1 = document.getElementById("carta");
